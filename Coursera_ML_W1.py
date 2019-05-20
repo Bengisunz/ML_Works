@@ -34,8 +34,6 @@ def computeCost(x,y,theta):
     return 1/(2*m) * np.sum(error)
 
 
-#NEDEN THETA 0,0?0,1 OLMASI GEREKMİYOR MU?
-
 print(computeCost(X,y,theta))
 
 
