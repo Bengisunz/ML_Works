@@ -116,10 +116,6 @@ plt.title("Cost function using Gradient Descent")
 
 
 
-#192 848 99
-
-
-
 
 
 
